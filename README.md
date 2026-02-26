@@ -8,7 +8,7 @@ This project performs **sentiment analysis** on the IMDb Movie Reviews dataset t
 
 ## 🗂️ Dataset
 
-- **Source:** IMDb Movie Reviews Dataset (`IMDB_Dataset.csv`)
+- **Source:** IMDb Movie Reviews Dataset (Kaggle)
 - **Size:** 50,000 reviews
 - **Classes:** Positive / Negative (balanced — 25,000 each)
 
@@ -108,7 +108,8 @@ nltk | scikit-learn | wordcloud | re | string
    nltk.download('stopwords')
    nltk.download('wordnet')
    ```
-4. Place `IMDB_Dataset.csv` in the working directory
+4. The original dataset (IMDb 50K Movie Reviews) is not included in this repository due to file size limitations. You can download the dataset from Kaggle:IMDb Dataset of 50K Movie Reviews
+   Place `IMDB_Dataset.csv` in the working directory.
 5. Open and run `Task4_SentimentAnalysis_usingNLP.ipynb`
 
 ---
