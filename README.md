@@ -90,7 +90,7 @@ nltk | scikit-learn | wordcloud | re | string
 
 ```
 ├── Task4_SentimentAnalysis_usingNLP.ipynb   # Main notebook
-├── IMDB_Dataset.csv                          # Dataset (not included in repo)
+├── IMDB_Dataset.csv                          # Dataset
 └── README.md                                 # Project documentation
 ```
 
