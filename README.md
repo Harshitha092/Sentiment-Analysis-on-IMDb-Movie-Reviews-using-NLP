@@ -120,10 +120,7 @@ This project demonstrates a complete NLP pipeline — from raw text preprocessin
 
 ---
 
-## 👩‍💻 Author
-
-  Harshitha Salian
-  
-   *Aspiring Data Analyst*
-  
-  **LinkedIn**: https://linkedin.com/in/salianharshitha/
+## 👩‍💻 Author  
+**Harshitha Salian**  
+Analytics Professional | SQL · Power BI · Excel · Python  
+📍 Dubai, UAE | [LinkedIn](https://www.linkedin.com/in/salianharshitha/) | [GitHub](https://github.com/Harshitha092)
